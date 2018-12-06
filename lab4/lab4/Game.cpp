@@ -1,4 +1,4 @@
-// author Peter Lowe
+// author james O Hara
 
 #include "Game.h"
 #include <iostream>
