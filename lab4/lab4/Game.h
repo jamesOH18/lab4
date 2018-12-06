@@ -1,4 +1,5 @@
 // author James O Hara
+// estimate time
 #ifndef GAME
 #define GAME
 
